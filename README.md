@@ -7,6 +7,8 @@
 
 **heidelpay Customer Messages**
 
+> **ATTENTION: This package is abandoned and replaced by [heidelpay/php-message-code-mapper.](https://packagist.org/packages/heidelpay/php-message-code-mapper)**
+
 This library provides user-friendly output of (error)-messages coming from
 the heidelpay API.
 
